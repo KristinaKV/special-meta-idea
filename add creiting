@@ -1,0 +1,9 @@
+class Book {
+int id;
+String name;
+Author author;
+int pages,
+Genre genre;
+int rating;
+………..
+}
